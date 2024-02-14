@@ -1,0 +1,18 @@
+{
+    "opnsenseURL": "https://127.0.0.1",
+    "opnsenseKey": "6Ge0ATDILzFAUxFoJ0QY2loUVpw+b0AVsOTe31zT1d+MbFQU8YD91b3pfVZrJVqbZey5/HAldSNoEjOa",
+    "opnsenseSecret": "mZUiqPC5sLiPdqeXGXGZ4laA8xpOnbcrjt/Arkg2Gg5Zh+9Jv+UVOZ/aRNX8pO9/3d/Qv7fuXptJMnoL",
+    "piaUsername": "p1547859",
+    "piaPassword": "bpCNxeuM3S",
+    "tunnelGateway": null,
+    "opnsenseWGPrefixName": "pia",
+    "instances": {
+        "instancename": {
+            "regionId": "us_washington_dc",
+            "dipToken": "",
+            "dip": false,
+            "portForward": false,
+            "opnsenseWGPort": "51815"
+        }
+    }
+}
